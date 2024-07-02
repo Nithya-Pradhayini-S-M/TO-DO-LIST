@@ -8,7 +8,7 @@ Remove tasks from the list.
 
 Getting Started
 1.Clone this repository:
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/Nithya-Pradhayini-S-M/TO-DO-LIST.git
 
 2.Open index.html in your web browser.
 
